@@ -3,7 +3,7 @@
 ## detection COVID-19 from chest CT-Scan
 
 
-# Tasks: (for consideration)
+<!--- # Tasks: (for consideration)
 
 1. whether augumentation is reasonable? (flip, rotation, ... )
 
@@ -54,7 +54,9 @@ Sugested Metrics
 
 1. the quality of these images is degraded: The quality degradation includes: the Hounsfield unit (HU) values are lost; the number of bits per pixel is reduced; the resolution of images is reduced. 
 
-2. the original CT scan contains a sequence of CT slices, but when put into papers, only a few key slices are selected, which may have negative impact on diagnosis as well.
+2. the original CT scan contains a sequence of CT slices, but when put into papers, only a few key slices are selected, which may have negative impact on diagnosis as well. --->
+
+
 
 ## Directory structure
 
